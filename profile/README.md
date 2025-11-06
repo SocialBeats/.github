@@ -7,7 +7,7 @@ Here you’ll find our open-source projects, collaborations, and everything we b
 
 ## 📌 What we do  
 
-This is a project for the [Cloud, Data Engineering  and IT Management Master from University Of Seville](https://www.master.us.es/ingsof/). We focus on developing a proffesional microservices application. Soundbeats
+This is a project for the [Cloud, Data Engineering  and IT Management Master from University Of Seville](https://www.master.us.es/ingsof/). We focus on developing a proffesional microservices application. Socialbeats
 is a beat management tool, which simulates an opensource project and it is open to everyones contribution.
 
 ---
