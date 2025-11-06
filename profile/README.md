@@ -16,15 +16,15 @@ is a beat management tool, which simulates an opensource project and it is open 
 
 The current team behind SocialBeats:
 
-@Andresmarevi @benjimrfl @Dangalcan @Danielruizlopezcc @danvelcam @Jaime-Linares @MiguelEncina @rafpulcif @rgavira123 @sergioapi
+@[Andresmarevi](https://github.com/Andresmarevi) @[benjimrfl](https://github.com/benjimrfl) @[Dangalcan](https://github.com/Dangalcan) @[Danielruizlopezcc](https://github.com/Danielruizlopezcc) @[danvelcam](https://github.com/danvelcam) @[Jaime-Linares](https://github.com/Jaime-Linares) @[MiguelEncina](https://github.com/MiguelEncina) @[rafpulcif](https://github.com/rafpulcif) @[rgavira123](https://github.com/rgavira123) @[sergioapi](https://github.com/sergioapi)
 
 We work in couples with the following distribution
 
-- @Andresmarevi **&** @sergioapi
-- @benjimrfl **&** @rgavira123
-- @Dangalcan **&** @Jaime-Linares
-- @danvelcam **&** @MiguelEncina
-- @Danielruizlopezcc **&** @rafpulcif
+- @[Andresmarevi](https://github.com/Andresmarevi) **&** @[sergioapi](https://github.com/sergioapi)
+- @[benjimrfl](https://github.com/benjimrfl) **&** @[rgavira123](https://github.com/rgavira123)
+- @[Dangalcan](https://github.com/Dangalcan) **&** @[Jaime-Linares](https://github.com/Jaime-Linares)
+- @[Danielruizlopezcc](https://github.com/Danielruizlopezcc) **&** @[rafpulcif](https://github.com/rafpulcif)
+- @[danvelcam](https://github.com/danvelcam) **&** @[MiguelEncina](https://github.com/MiguelEncina)
 
 ---
 
