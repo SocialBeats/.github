@@ -1,0 +1,49 @@
+repository:
+  visibility: public
+
+  has_issues: true
+  has_projects: false
+  has_wiki: false
+  has_discussions: true
+  has_downloads: true
+
+  # Default branch
+  default_branch: main
+
+  # Auto-create a LICENSE if none is added
+  license_template: mit
+
+  topics:
+    - socialbeats
+    - music
+    - audio
+    - open-source
+
+pull_requests:
+  # Require PRs to go through code review
+  require_review: true
+  # Allow only squash merges (cleaner history)
+  # merge_strategy: squash
+
+# Protect main branch
+branch_protection:
+  main:
+    required_approving_review_count: 1
+    required_status_checks:
+      strict: true
+      contexts: []
+    enforce_admins: true
+    restrict_pushes: true
+
+# Create default labels for all repos
+labels:
+  - name: bug
+    color: d73a4a
+  - name: enhancement
+    color: a2eeef
+  - name: help wanted
+    color: 008672
+  - name: good first issue
+    color: 7057ff
+  - name: documentation
+    color: 0075ca
