@@ -52,6 +52,6 @@ By contributing to this project, you agree that your code will be licensed under
 
 ## Contact
 
-If you have any questions or would like to discuss the project further, feel free to use Github Discussions portal.
+If you have any questions or would like to discuss the project further, feel free to use [Github Discussions portal](https://github.com/SocialBeats/.github/discussions).
 
 Thank you for your interest in contributing to **Socialbeats**!
