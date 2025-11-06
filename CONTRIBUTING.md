@@ -2,7 +2,7 @@
 
 First of all we want to make it clear that this is a project for the subject `Fundamentos de Ingeniería de Software para Sistemas Cloud` from [Cloud, Data Engineering  and IT Management Master from University Of Seville](https://www.master.us.es/ingsof/).
 
-Thank you for your interest in contributing to **socialbeats**. We love receiving contributions and are excited that you want to be part of this project. However, we want to inform you that **contributions will only be accepted starting in February 2026**.
+Thank you for your interest in contributing to **Socialbeats**. We love receiving contributions and are excited that you want to be part of this project. However, we want to inform you that **contributions will only be accepted starting in February 2026**.
 
 ## 🗓️ **When can you contribute?**
 
@@ -54,4 +54,4 @@ By contributing to this project, you agree that your code will be licensed under
 
 If you have any questions or would like to discuss the project further, feel free to use Github Discussions portal.
 
-Thank you for your interest in contributing to **socialbeats**!
+Thank you for your interest in contributing to **Socialbeats**!
