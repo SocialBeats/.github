@@ -42,7 +42,7 @@ Want to collaborate with us? Great! Just follow these steps:
 
 ## 📄 License
 
-All our projects are released under the [MIT License](LICENSE) (or the specific license of each repo) to allow everyone to use, modify, and collaborate freely.
+All our projects are released under the [MIT License](../LICENSE) (or the specific license of each repo) to allow everyone to use, modify, and collaborate freely.
 
 ---
 
