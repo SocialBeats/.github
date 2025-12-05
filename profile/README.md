@@ -26,6 +26,34 @@ We work in couples with the following distribution
 - @[Danielruizlopezcc](https://github.com/Danielruizlopezcc) **&** @[rafpulcif](https://github.com/rafpulcif)
 - @[danvelcam](https://github.com/danvelcam) **&** @[MiguelEncina](https://github.com/MiguelEncina)
 
+## App Structure
+
+Socialbeats has different repositories, one per microservice. However, there are more due to our personal needs. Here we are going to list everyone of them:
+
+### Microservices
+
+Each couple is responsible of one microservice
+
+- [Social microservice](https://github.com/SocialBeats/social) owned and maintained by @[Andresmarevi](https://github.com/Andresmarevi) **&** @[sergioapi](https://github.com/sergioapi)
+- [Authentication microservice](https://github.com/SocialBeats/user-auth) owned and maintained by @[benjimrfl](https://github.com/benjimrfl) **&** @[rgavira123](https://github.com/rgavira123)
+- [Beats interaction microservice](https://github.com/SocialBeats/beats-interaction) owned and maintained by @[Dangalcan](https://github.com/Dangalcan) **&** @[Jaime-Linares](https://github.com/Jaime-Linares)
+- [Analytics and dashboards microservice](https://github.com/SocialBeats/analytics-and-dashboards) owned and maintained by @[Danielruizlopezcc](https://github.com/Danielruizlopezcc) **&** @[rafpulcif](https://github.com/rafpulcif)
+- [Beats upload microservice](https://github.com/SocialBeats/beats-upload) owned and maintained by @[danvelcam](https://github.com/danvelcam) **&** @[MiguelEncina](https://github.com/MiguelEncina)
+
+### Other repos
+
+- [Frontend](https://github.com/SocialBeats/frontend) originally owned and maintained by @[Danielruizlopezcc](https://github.com/Danielruizlopezcc) **&** @[rafpulcif](https://github.com/rafpulcif) but everyone else has to add their features to it.
+
+- [API Gateway](https://github.com/SocialBeats/api-gateway) owned and maintained by @[danvelcam](https://github.com/danvelcam)
+
+- [Docs](https://github.com/SocialBeats/docs) originally owned and maintained by @[Andresmarevi](https://github.com/Andresmarevi) **&** @[sergioapi](https://github.com/sergioapi) but everyone else has to add their documents to it.
+
+- [Infrastructure](https://github.com/SocialBeats/infrastructure) owned and maintained by @[Dangalcan](https://github.com/Dangalcan)
+
+- [Microservice template](https://github.com/SocialBeats/microservice-template) owned and maintained by @[Dangalcan](https://github.com/Dangalcan) **&** @[Jaime-Linares](https://github.com/Jaime-Linares)
+
+- [.github](https://github.com/SocialBeats/.github) owned and maintained by @[Dangalcan](https://github.com/Dangalcan)
+
 ---
 
 ## 🚀 How to contribute  
