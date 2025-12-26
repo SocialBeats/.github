@@ -56,7 +56,7 @@ Each couple is responsible of one microservice
 
 - [persona-verification](https://github.com/SocialBeats/persona-verification-function) owned and maintained by @[benjimrfl](https://github.com/benjimrfl) **&** @[rgavira123](https://github.com/rgavira123)
 
-- [space-socialbeats]([https://github.com/SocialBeats/persona-verification-function](https://github.com/SocialBeats/space-socialbeats)) owned and maintained by @[Dangalcan](https://github.com/Dangalcan) **&** @[rgavira123](https://github.com/rgavira123)
+- [space-socialbeats](https://github.com/SocialBeats/space-socialbeats) owned and maintained by @[Dangalcan](https://github.com/Dangalcan) **&** @[rgavira123](https://github.com/rgavira123)
 
 ---
 
