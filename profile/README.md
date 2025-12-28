@@ -50,6 +50,8 @@ Each couple is responsible of one microservice
 
 - [Infrastructure](https://github.com/SocialBeats/infrastructure) owned and maintained by @[Dangalcan](https://github.com/Dangalcan)
 
+- [Payments & Subscriptions](https://github.com/SocialBeats/payments-and-suscriptions) owned and maintained by @[MiguelEncina](https://github.com/MiguelEncina) **&** @[rgavira123](https://github.com/rgavira123)
+
 - [Microservice template](https://github.com/SocialBeats/microservice-template) owned and maintained by @[Dangalcan](https://github.com/Dangalcan) **&** @[Jaime-Linares](https://github.com/Jaime-Linares)
 
 - [.github](https://github.com/SocialBeats/.github) owned and maintained by @[Dangalcan](https://github.com/Dangalcan)
